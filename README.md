@@ -1,3 +1,6 @@
+---
+title: Manji Consulting Title
+---
 # Manji Consulting Services
 ## SAP Plant Maintenance • Enterprise Asset Management • Project Management
 
