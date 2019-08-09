@@ -1,4 +1,4 @@
-## SAP Plant Maintenance • Enterprise Asset Management • Project Management
+# SAP Plant Maintenance • Enterprise Asset Management • Project Management
 
 Manji is a consultancy that helps our clients achieve more from their SAP investment. We specialise in the SAP Enterprise Asset Management business process. If you are preparing to implement or currently use SAP Plant Maintenance, Project Systems or Materials Management, then we can help. We can project manage implementations or supplement your existing team with expert knowledge to fast track your projects.
 
