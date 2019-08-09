@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## SAP Plant Maintenance • Enterprise Asset Management • Project Management
 
-You can use the [editor on GitHub](https://github.com/gillybrisvegas/manji/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Manji is a consultancy that helps our clients achieve more from their SAP investment. We specialise in the SAP Enterprise Asset Management business process. If you are preparing to implement or currently use SAP Plant Maintenance, Project Systems or Materials Management, then we can help. We can project manage implementations or supplement your existing team with expert knowledge to fast track your projects.
 
 ### Markdown
 
