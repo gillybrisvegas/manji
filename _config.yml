@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Manji
 description: SAP Consulting Services
+site.github.is_project_page: 0
